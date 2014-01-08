@@ -28,6 +28,7 @@ Used by Sever:
   Default is `0.0.0.0`.
 * `node["teamcity_server"]["server"]["port"]` — Port for listening. Default is
   `8111`.
+* `node["teamcity_server"]["server"]["path"]` — '/opt/TeamCity'
 
 ## Recipes
 
